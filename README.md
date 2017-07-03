@@ -16,7 +16,6 @@ What's the PGO
 ```
 PGO stands for "Prepare to go out". 
 ```
-Bug reports
-------
+
 
 
